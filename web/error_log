@@ -1,0 +1,2 @@
+[01-Jun-2021 05:25:55 UTC] PHP Warning:  "continue" targeting switch is equivalent to "break". Did you mean to use "continue 2"? in /home/l3pb25uxl1kn/public_html/device-identifier/vendor/doctrine/orm/lib/Doctrine/ORM/UnitOfWork.php on line 2636
+[01-Jun-2021 05:25:55 UTC] PHP Warning:  "continue" targeting switch is equivalent to "break". Did you mean to use "continue 2"? in /home/l3pb25uxl1kn/public_html/device-identifier/vendor/doctrine/orm/lib/Doctrine/ORM/UnitOfWork.php on line 2665
